@@ -1,3 +1,36 @@
-.body{
-	background-color: blue;
+body{
+	background: black;
+	background: url(https://www.walldevil.com/wallpapers/w02/792666-3d-view-abstract-dark-floor-minimalistic-patterns-wood-wood-floor.jpg);
 }
+header{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	flex-direction: column;
+	color: #fff;
+
+
+}
+.img{
+	width: 400px;
+	height: 400px;
+	margin: 00px;
+	padding: 00px;
+	border-radius: 50%;
+}
+.h1{
+	font-size: 40px;
+}
+.sec{
+	font-weight: bolder;
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+}	
+
+.ul2{
+
+}
+
+
